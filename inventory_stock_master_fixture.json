@@ -1,0 +1,62 @@
+[
+  {
+    "model": "inventory_app.inventorystockmaster",
+    "pk": 14,
+    "fields": {
+      "inventory_code": "CRO/2024/100",
+      "inventory_type": "add_invent",
+      "item_type": "finished",
+      "batch_no": "CR00125",
+      "item_var": 15,
+      "quantity": 100,
+      "quantity_type": "Strip",
+      "location": 11,
+      "expiry_date": "2024-04-24",
+      "created_by": 1,
+      "updated_by": null,
+      "created_at": "2024-01-24T12:46:02.700Z",
+      "updated_at": "2024-01-24T12:46:02.700Z",
+      "status": true
+    }
+  },
+  {
+    "model": "inventory_app.inventorystockmaster",
+    "pk": 15,
+    "fields": {
+      "inventory_code": "DELL/2024/50",
+      "inventory_type": "add_invent",
+      "item_type": "finished",
+      "batch_no": "DELL00125",
+      "item_var": 16,
+      "quantity": 50,
+      "quantity_type": "One",
+      "location": 11,
+      "expiry_date": "2024-04-24",
+      "created_by": 1,
+      "updated_by": null,
+      "created_at": "2024-01-24T12:46:34.709Z",
+      "updated_at": "2024-01-24T12:47:37.052Z",
+      "status": true
+    }
+  },
+  {
+    "model": "inventory_app.inventorystockmaster",
+    "pk": 16,
+    "fields": {
+      "inventory_code": "PIP/2024/50",
+      "inventory_type": "add_invent",
+      "item_type": "finished",
+      "batch_no": "PIP0125",
+      "item_var": 17,
+      "quantity": 20,
+      "quantity_type": "One",
+      "location": 11,
+      "expiry_date": "2024-04-24",
+      "created_by": 1,
+      "updated_by": null,
+      "created_at": "2024-01-24T12:46:59.515Z",
+      "updated_at": "2024-01-24T12:46:59.515Z",
+      "status": true
+    }
+  }
+]

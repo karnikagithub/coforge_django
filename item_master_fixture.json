@@ -1,0 +1,50 @@
+[
+  {
+    "model": "inventory_app.itemmaster",
+    "pk": 15,
+    "fields": {
+      "item_code": "CRO650",
+      "item_name": "CROCIN",
+      "item_file": "item_files/apollo.png",
+      "specification": "500MG",
+      "category": 7,
+      "created_by": 1,
+      "updated_by": null,
+      "created_at": "2024-01-24T12:44:04.055Z",
+      "updated_at": "2024-01-24T12:44:04.055Z",
+      "status": true
+    }
+  },
+  {
+    "model": "inventory_app.itemmaster",
+    "pk": 16,
+    "fields": {
+      "item_code": "DELL584",
+      "item_name": "DELL DESKTOP",
+      "item_file": "item_files/astro_bdUaCjX.jpg",
+      "specification": "500MG",
+      "category": 8,
+      "created_by": 1,
+      "updated_by": null,
+      "created_at": "2024-01-24T12:44:45.128Z",
+      "updated_at": "2024-01-24T12:44:45.128Z",
+      "status": true
+    }
+  },
+  {
+    "model": "inventory_app.itemmaster",
+    "pk": 17,
+    "fields": {
+      "item_code": "PIPP184",
+      "item_name": "PIPETTE",
+      "item_file": "item_files/astro_mX9sTuM.jpg",
+      "specification": "500MG",
+      "category": 9,
+      "created_by": 1,
+      "updated_by": null,
+      "created_at": "2024-01-24T12:45:11.145Z",
+      "updated_at": "2024-01-24T12:45:11.145Z",
+      "status": true
+    }
+  }
+]
